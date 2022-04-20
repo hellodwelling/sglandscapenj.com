@@ -2,3 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://sglandscapenj.com/index</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/store</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/reviews</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/gallery-All</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/gallery-Landscaping</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/gallery-Hardscaping</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Mowing</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Mulch-Installation</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Shrub-Trimming</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Fall-and-Spring-Clean-Up</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Fertilization</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Lawn-Aeration</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Pavers</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sglandscapenj.com/service-Pressure-Washing</loc>
+        <lastmod>2022-04-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
